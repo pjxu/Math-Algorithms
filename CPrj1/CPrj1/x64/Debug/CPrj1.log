@@ -1,0 +1,20 @@
+﻿  CRun.c
+d:\repo\cprj1\cprj1\crun.c(59): warning C4013: 'system' undefined; assuming extern returning int
+d:\repo\cprj1\cprj1\crun.c(11): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint64_t *'
+  d:\repo\cprj1\cprj1\crun.c(11): note: consider using '%lld' in the format string
+  d:\repo\cprj1\cprj1\crun.c(11): note: consider using '%Id' in the format string
+  d:\repo\cprj1\cprj1\crun.c(11): note: consider using '%I64d' in the format string
+d:\repo\cprj1\cprj1\crun.c(13): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint64_t *'
+  d:\repo\cprj1\cprj1\crun.c(13): note: consider using '%lld' in the format string
+  d:\repo\cprj1\cprj1\crun.c(13): note: consider using '%Id' in the format string
+  d:\repo\cprj1\cprj1\crun.c(13): note: consider using '%I64d' in the format string
+d:\repo\cprj1\cprj1\crun.c(15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\repo\cprj1\cprj1\crun.c(15): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\repo\cprj1\cprj1\crun.c(15): note: the missing variadic argument 2 is required by format string '%c'
+  d:\repo\cprj1\cprj1\crun.c(15): note: this argument is used as a buffer size
+d:\repo\cprj1\cprj1\crun.c(53): warning C4477: 'printf_s' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uint64_t'
+  d:\repo\cprj1\cprj1\crun.c(53): note: consider using '%llx' in the format string
+  d:\repo\cprj1\cprj1\crun.c(53): note: consider using '%Ix' in the format string
+  d:\repo\cprj1\cprj1\crun.c(53): note: consider using '%I64x' in the format string
+  CPrj1.vcxproj -> D:\Repo\CPrj1\x64\Debug\CPrj1.exe
+  CPrj1.vcxproj -> D:\Repo\CPrj1\x64\Debug\CPrj1.pdb (Full PDB)
